@@ -23,3 +23,6 @@ In addition, this project also has sample code to call any external API's based 
     - pip install -r requirements.txt
 - Run the main class using the command
     - streamlit run main_app.py
+
+## Disclaimer
+This project is intended for educational purposes and serves as a basic introduction to AI-driven chat systems. It may not have the advanced capabilities of commercial chat bots.
